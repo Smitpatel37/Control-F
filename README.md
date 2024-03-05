@@ -1,0 +1,1 @@
+This main.py is script that navigates through "https://www.wahl-o-mat.de/" and can fetch the webpage information, mainly questions of the survey and asks the user to provide the answers to it. This project was done in python with the help of selenium and a bit of web-dev knowledge.
